@@ -6,10 +6,10 @@ function Home() {
     <section id="home" className="hero">
       <div className="hero-content">
         <div className="image-container">
-          {/* Replace with your actual profile picture */}
+          {/* Replace "dean.jpg" with the actual image path */}
           <img
-            src="dean.jpg" // Replace "dean.jpg" with the correct image file name and path
-            alt="Dean Pacardo's Portrait"
+            src="dean.jpg"
+            alt="Dean's Portrait"
             className="profile-image"
           />
         </div>
